@@ -4,3 +4,9 @@ test
 
 omoomo
 mmo
+
+okamoto
+- satu
+- ika
+- tako
+- hoge
